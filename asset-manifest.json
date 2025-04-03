@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ferdinandalabee/React-TodoList.git/static/css/main.231cf08e.css",
+    "main.js": "/ferdinandalabee/React-TodoList.git/static/js/main.64608f70.js",
+    "index.html": "/ferdinandalabee/React-TodoList.git/index.html",
+    "main.231cf08e.css.map": "/ferdinandalabee/React-TodoList.git/static/css/main.231cf08e.css.map",
+    "main.64608f70.js.map": "/ferdinandalabee/React-TodoList.git/static/js/main.64608f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231cf08e.css",
+    "static/js/main.64608f70.js"
+  ]
+}
